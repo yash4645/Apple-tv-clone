@@ -1,4 +1,3 @@
-# Apple-tv-clone
 <h1>
 Clone of Apple Tv+
 </h1>
